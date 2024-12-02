@@ -69,10 +69,6 @@ An interactive Excel dashboard visualizing key metrics, trends, and patterns:
 
 ---
 
-Here’s how you can structure the conclusion for your GitHub page:
-
----
-
 ## 🏁 **Conclusion**  
 The Coffee Sales Analysis provided valuable insights into customer behavior, product preferences, and store performance. The key findings, such as peak sales hours, top-performing products, and balanced store traffic, equip Maven Roasters with actionable data to make informed strategic decisions.  
 
