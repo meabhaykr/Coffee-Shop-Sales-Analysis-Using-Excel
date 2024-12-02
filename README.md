@@ -5,7 +5,8 @@ A comprehensive analysis of sales data for Maven Roasters, a fictional coffee sh
 ---
 
 ## 💻 **Excel Dashboard Snapshot**
-[Insert dashboard image or link here]
+[Dashboard Image.png]https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Excel/blob/main/Dashboard%20Image.png
+
 
 ---
 
