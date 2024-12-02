@@ -1,17 +1,31 @@
-# Coffee Shop Sales Analysis
+<h1 align="center">Coffee Shop Sales Analysis</h1>
 
 A comprehensive analysis of sales data for Maven Roasters, a fictional coffee shop chain operating across three NYC locations. The goal is to uncover actionable insights to enhance business performance by examining trends in customer behavior, product preferences, and store traffic patterns.
 
 ---
 
 ## 💻 **Excel Dashboard Snapshot**
-[Dashboard Image.png]https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Excel/blob/main/Dashboard%20Image.png
 
+<p align="center">
+    <img src="https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Excel/blob/main/Dashboard%20Image.png" alt="Dashboard Image">
+</p>
 
 ---
 
 ## 📊 **Objective**
 To analyze sales data and create an interactive Excel dashboard that reveals trends, patterns, and key insights. The findings aim to inform strategic decisions and boost sales performance. 
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Dataset Overview](#dataset-overview)
+- [Dashboard Features](#dashboard-features)
+- [Key Insights](#key-insights)
+- [Conclusion](#conclusion)
+- [Contact](#contact)
 
 ---
 
@@ -90,3 +104,8 @@ The Coffee Sales Analysis provided valuable insights into customer behavior, pro
    - Develop location-specific campaigns to take advantage of balanced customer distribution across stores.  
 
 By leveraging the insights from this analysis, Maven Roasters can boost operational efficiency, improve customer satisfaction, and drive overall revenue growth.
+
+## Contact
+
+For any questions or feedback, please contact me at [meabhaykr@gmail.com](mailto:meabhaykr@gmail.com).
+
