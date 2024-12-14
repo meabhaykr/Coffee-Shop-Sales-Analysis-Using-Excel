@@ -1,4 +1,4 @@
-<h1 align="center">Coffee Shop Sales Analysis</h1>
+<h1 align="center">Coffee Shop Sales Analysis Using Excel</h1>
 
 A comprehensive analysis of sales data for Maven Roasters, a fictional coffee shop chain operating across three NYC locations. The goal is to uncover actionable insights to enhance business performance by examining trends in customer behavior, product preferences, and store traffic patterns.
 
