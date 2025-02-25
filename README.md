@@ -1,5 +1,4 @@
 <h1 align="center">Coffee Shop Sales Analysis Using Excel</h1>
-
 ---
 
 
